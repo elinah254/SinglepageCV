@@ -45,3 +45,7 @@ A favicon linked in the head section.
 ## Contact
 
 If you have any questions or feedback, please feel free to contact us at (mailto:mmboneelinah@gmail.com).
+
+#Project url
+View the project here (https://github.com/elinah254/SinglepageCV)
+
